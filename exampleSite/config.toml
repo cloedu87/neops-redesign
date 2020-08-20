@@ -1,4 +1,4 @@
-baseURL = "https://redesign.neops.io"
+baseURL = "https://neops.io"
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
